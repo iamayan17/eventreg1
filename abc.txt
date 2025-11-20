@@ -10,7 +10,7 @@
 
 <div class="form-box">
     <label>Name:</label>
-    <input id="name" type="text" placeholder="Enter your name">
+    <input id="name" type="text" placeholder="7yi8yi8i88i8i8i8i77677u77u77767u6776uEnter your name">
 
     <label>Email:</label>
     <input id="email" type="email" placeholder="Enter your email">
