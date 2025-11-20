@@ -3,11 +3,7 @@
 <head>
     <title>S8i687imple Event Registration</title>
     <style>
-        body { font-family: Arial, sans-serif; padding: 20px; }
-        .form-box { width: 300px; }
-        input, button { width: 100%; padding: 8px; margin-top: 10px; }
-    </style>
-</head>
+        body { font-family: Arial, sans-serif; padding
 <body>
 
 <h2>Event Registration</h2>
